@@ -6,3 +6,5 @@
 # Clean code always looks like it was written by someone who cares. — Robert C. Martin
 
 Coding Quotes
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
